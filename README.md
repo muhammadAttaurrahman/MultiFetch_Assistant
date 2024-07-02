@@ -16,6 +16,9 @@ We have used the following packages:
 * PyPDF2: A library for reading and manipulating PDF files.
 
 
+![Example Image](images/example.png)
+
+
 Run:
 
 * Make a ".env" file and store your Google Gemini API Key in the following way in this file:

@@ -16,7 +16,7 @@ We have used the following packages:
 * PyPDF2: A library for reading and manipulating PDF files.
 
 
-![Example Image](images/example.png)
+![Example Image](multiFetch_assistant.jpg)
 
 
 Run:

@@ -24,4 +24,4 @@ GOOGLE_API_KEY = " Your API KEY"
 
 !pip install -r requirement.txt
 
-streamlit run multiFetch_assistant.py
+to run the application, use -> "streamlit run multiFetch_Assistant.py" in the terminal.

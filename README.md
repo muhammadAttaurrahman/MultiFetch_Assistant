@@ -1,5 +1,5 @@
 # MultiFetch_Assistant
-Our "MultiFetch Assistant" is a multipurpose LLM application, suitable for ordinary users. Our app can interact with PDF documents, compare resumes to job descriptions, extract content from photos, and summarize transcripts of YouTube videos.
+Our "MultiFetch Assistant" is a multipurpose LLM application, suitable for ordinary users. Our app can interact with PDF documents, compare resumes to job descriptions, extract content from photos, and summarize transcripts of YouTube videos using LLM.
 
 We have used the following packages:
 

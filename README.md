@@ -18,10 +18,9 @@ We have used the following packages:
 
 Run:
 
-Make a ".env" file and store your Google Gemini API Key in the following way in this file:
+* Make a ".env" file and store your Google Gemini API Key in the following way in this file:
+ GOOGLE_API_KEY = " Your API KEY"
 
-GOOGLE_API_KEY = " Your API KEY"
+* !pip install -r requirement.txt
 
-!pip install -r requirement.txt
-
-to run the application, use -> "streamlit run multiFetch_Assistant.py" in the terminal.
+* To run the application, use -> "streamlit run multiFetch_Assistant.py" in the terminal.
